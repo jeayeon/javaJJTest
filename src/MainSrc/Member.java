@@ -17,9 +17,12 @@ public class Member {
 		return x*y;
 	}
 	
+
+	//2020/03/17 jeayeon
 	@Test
 	public void ttt() {
 		assertEquals(add(10,10),mul(10,10));
+		System.out.println("hi");
 	}
 
 }
