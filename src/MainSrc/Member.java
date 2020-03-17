@@ -22,7 +22,6 @@ public class Member {
 	@Test
 	public void ttt() {
 		assertEquals(add(10,10),mul(10,10));
-		System.out.println("hi");
 	}
 
 }
